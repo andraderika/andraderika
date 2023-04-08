@@ -1,4 +1,4 @@
-name: Generate Datas
+nname: Generate Datas
 
 on:
   schedule: # execute every 12 hours
@@ -8,22 +8,18 @@ on:
 jobs:
   build:
     name: Snake Game
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     steps:
       # Snake Animation
-      runs:
-      using: 'node16'
-      main: 'main.js'
-      
-     - uses: Platane/snk@master
-         id: snake-gif
-         with:
-          github_user_name: andadrerika
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name:  ELLEN2121
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-       - uses: crazy-max/ghaction-github-pages@v2.1.3
-         with:
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
           target_branch: output
           build_dir: dist
-         env:
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
