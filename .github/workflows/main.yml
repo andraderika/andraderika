@@ -11,13 +11,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-       - uses: actions/checkout@v3
-       - uses: actions/setup-node@v3
-         with:
-            node-version: '16' 
-       - run: npm install -g
-       
-       - uses: Platane/snk@master
+      runs:
+      using: 'node16'
+      main: 'main.js'
+      
+     - uses: Platane/snk@master
          id: snake-gif
          with:
           github_user_name: andadrerika
