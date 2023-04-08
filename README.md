@@ -7,7 +7,6 @@
 </br>
 🌱 Estudando: HTML / CSS / JAVASCRIPT / FIREBASE
 </br>
-😄 Pronomes: Ela/Dela
 </div>
 </br>
 <div align="center">
