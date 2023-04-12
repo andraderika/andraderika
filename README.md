@@ -2,8 +2,8 @@
 <h2>Olá, seja bem vinda (o)!</h2>
 </div>
 <div align="center">
-  <h3>👩🏻‍💻 Eu sou a Erika Oliveira, desenvolvedora web em formação pela Laboratória.</h3>
-  <h3>🌱 Estudando: HTML / CSS / JAVASCRIPT / FIREBASE</h3>
+  <h4>👩🏻‍💻 Eu sou Erika Oliveira, desenvolvedora web em formação pela Laboratória.</h3>
+  <h4>🌱 Estudando: HTML / CSS / JAVASCRIPT / FIREBASE</h3>
 </div>
 </br>
 <div align="center">
