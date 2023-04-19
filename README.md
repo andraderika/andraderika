@@ -5,11 +5,6 @@
   <h4>👩🏻‍💻 Eu sou Erika Oliveira, desenvolvedora web em formação pela Laboratória.</h3>
   <h4>🌱 Estudando: HTML / CSS / JAVASCRIPT / FIREBASE</h3>
 </div>
-</br>
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andraderika&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Erika-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Erika-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
