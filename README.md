@@ -12,9 +12,9 @@ Prazer, sou uma mulher encantada com o universo da tecnologia e suas possibilida
 ```javascript
 
 const erikaOliveira = {
-    origem: ['Salvador/BA']
+    origem: ['Salvador/BA'],
     sobre: ['Psicóloga de formação, 
-    mas atualmente estudante Front-end pela Laboratoria - turma SAP009']
+    mas atualmente estudante Front-end pela Laboratoria - turma SAP009'],
     area = ['Desenvolvimento Web'],
     techSkills: [
         'Javascript',
