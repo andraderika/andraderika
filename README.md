@@ -1,25 +1,17 @@
+<h2>Olá Dev! 👋🏼</h2>
+
+*Prazer, eu sou a Erika!*
+
+**💫 Sobre mim:**
+
+- 💻 Desenvolvedora Web Jr;
+- ⚛️ JavaScript | NodeJS | Firebase | Jest;
+- 📝 Graduanda pela Laboratória;
+- ✨ Meu objetivo é trabalhar aticulando pessoas, cultura e tecnologia.
+
 
 <br>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador andraderika">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="top" alt="Computador andraderika">
 
 
-```javascript
-
-const erikaOliveira = {
-    origem: ['Salvador/BA'],
-    sobre: ['Psicóloga de formação, 
-    mas atualmente estudante Front-end pela Laboratoria - turma SAP009'],
-    area = ['Desenvolvimento Web'],
-    techSkills: [
-        'Javascript',
-        'CSS3',
-        'HTML5',
-        'Node.js',
-        'Jest',
-        'Firebase'
-        'Product Design',
-        'Metodologias Ágeis'
-    ],
-}
-```
