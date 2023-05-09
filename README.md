@@ -1,8 +1,3 @@
-## Oi devs 👋
-
-<br>
-
-Prazer, sou uma mulher encantada com o universo da tecnologia e suas possibilidades!
 
 <br>
 
