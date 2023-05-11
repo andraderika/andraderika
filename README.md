@@ -1,7 +1,7 @@
 <div align="center">
 
   <samp>
-<h2>Olá Dev! 👋🏼</h2> 
+<h2>Olá Dev! <img width="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"></h2> 
 
 
 *Prazer, eu sou a Erika!*
